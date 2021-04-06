@@ -1,9 +1,0 @@
-[build-system]
-requires = [
-    "setuptools>=42",
-    "wheel",
-    "paramiko",
-    "pysnmp",
-    "chardet",
-]
-build-backend = "setuptools.build_meta"
