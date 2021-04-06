@@ -9,8 +9,8 @@ small package for network devices cli automatization
 
 ### How to use:
  1. clone or download repo
- 2. cd to folder with 'setup.py'
- 3. run 'python setyp.py install'
+ 2. if you dowload .zip file, unzip and rename "net_node-main" folder to "net_node"
+ 3. run 'pip -e install net_node'
  4. enjoy
 
 ## Example
